@@ -137,6 +137,10 @@ li {
 	color: rgb(101, 248, 101);
 }
 
+#additional-page {
+	font-size: 22px;
+}
+
 .project {
 	margin: 20px;
 }
