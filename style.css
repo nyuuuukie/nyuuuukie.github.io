@@ -131,6 +131,29 @@ li {
 }
 
 
+
+.project:before {
+	content: "> ";
+	color: rgb(101, 248, 101);
+}
+
+.project {
+	margin: 20px;
+}
+
+.lang:before {
+	content: "# ";
+	color: #fff;
+}
+
+.lang {
+	margin: 20px;
+}
+
+#additional-page > .resume-separator {
+	margin-bottom: 20px;
+}
+
 @media (min-width: 575px) {
 	.skills-tree {
 		border-right: 3px dotted;
